@@ -7,4 +7,3 @@ _pycache_/
 
 # Ignore datasets or large files, if any
 *.csv
-*.pkl
