@@ -1,0 +1,10 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore other system files
+*.pyc
+_pycache_/
+
+# Ignore datasets or large files, if any
+*.csv
+*.pkl
