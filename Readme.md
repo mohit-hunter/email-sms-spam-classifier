@@ -1,3 +1,5 @@
+# you can check sms-classifier here
+https://email-sms-spam-tryit.streamlit.app/?embed_options=dark_theme,show_footer
 # Naive Bayes Spam Classifier
 
 This project implements a spam classifier using the Naive Bayes algorithm to detect spam in emails and SMS messages.
